@@ -3,7 +3,7 @@ This is a NLP class group Project, which implement several NLP functions with a 
 这是一个NLP课程小组作业，完成了一个带GUI包含几个NLP功能的程序
 
 # Note
-推荐Python版本3.11以上  
+推荐Python版本3.10以上  
 本项目使用PyQt5进行GUI制作、使用PyQt-Fluent-Widgets套件，使用下面的命令进行安装
 ```sh
 pip install PyQt5
